@@ -23,7 +23,7 @@
 
 ## 📫 Открыт к предложениям
 
-Ищу **стажировку или junior-позицию Python Backend** (Санкт-Петербург / удалённо). Готов выполнить тестовое задание — весь код открыт на GitHub.
+Ищу **стажировку или junior-позицию Python Backend** (Санкт-Петербург / удалённо). Готов выполнить тестовое задание - весь код открыт на GitHub.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lvlfaceit8)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olgklm07@gmail.com)
